@@ -10,3 +10,6 @@ HelpScout のサイドバーに、customer の email で検索した Mailerlite 
 4. HelpScout でカスタムApp登録、secret key を設定
 5. config.php に設定
 
+## screen shot
+
+![Screen shot](https://github.com/toiee-lab/helpscout-mailerlite-script/raw/for-image/sample.png)
