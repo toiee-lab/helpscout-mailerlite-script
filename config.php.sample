@@ -1,0 +1,4 @@
+<?php
+	
+define('WEBHOOK_SECRET_KEY', '****');
+define('MAILERLITE_API_KEY', '****');
